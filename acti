@@ -6,3 +6,5 @@ driver.findelementBy.linktext
 driver.findelementBy.partiallinktext
 driver.findelementBy.css
 driver.findelementBy.xpath1
+Chromedriver driver = new Chromedriver();
+Webdriver driver = new ChromeDriver();
