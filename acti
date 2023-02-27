@@ -2,7 +2,10 @@ driver.findelementBy.id
 driver.findelementBy.name
 driver.findelementBy.class
 driver.findelementBy.tagName
+<<<<<<< HEAD
 driver.findelement.linktext
 driver.findelement.partiallinktext
 driver.findelement.css
 driver.findelement.xpath2
+=======
+============================\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
