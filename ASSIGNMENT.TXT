@@ -31,4 +31,4 @@ SQL> SELECT *
         40 OPERATIONS     BOSTON                                                                                        
 
 SQL> CL SCR
-SQL> SPOOL'C:\ASSIGNMENT1.TXT'
+SQL> SPOOL'C:\ASSIGNMENT1.TXT
