@@ -5,3 +5,4 @@ driver.findelementBy.tagName
 driver.findelement.linktext
 driver.findelement.partiallinktext
 driver.findelement.css
+driver.findelement.xpath1
